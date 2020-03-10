@@ -1,0 +1,83 @@
+IS MODEL TRAINING? False
+DEBUG: height: - 224, width - 224
+THIS IS FILE:  ic_25.jpg
+DEBUG2: IMAGE SHAPE torch.Size([1, 3, 224, 224]) IMAGES SHAPE torch.Size([8, 3, 224, 224])
+Input shape: torch.Size([8, 3, 224, 224])
+Output shape: [torch.Size([1, 125]), torch.Size([1, 352])]
+tensor(9.1409, grad_fn=<SelectBackward>) tensor(9.3266, grad_fn=<SelectBackward>)
+tensor([[4]])
+tensor([[53]])
+wash table
+THIS IS FILE:  ic_22.jpg
+DEBUG2: IMAGE SHAPE torch.Size([1, 3, 224, 224]) IMAGES SHAPE torch.Size([8, 3, 224, 224])
+Input shape: torch.Size([8, 3, 224, 224])
+Output shape: [torch.Size([1, 125]), torch.Size([1, 352])]
+tensor(9.1206, grad_fn=<SelectBackward>) tensor(9.3187, grad_fn=<SelectBackward>)
+tensor([[4]])
+tensor([[53]])
+wash table
+THIS IS FILE:  ic_23.jpg
+DEBUG2: IMAGE SHAPE torch.Size([1, 3, 224, 224]) IMAGES SHAPE torch.Size([8, 3, 224, 224])
+Input shape: torch.Size([8, 3, 224, 224])
+Output shape: [torch.Size([1, 125]), torch.Size([1, 352])]
+tensor(9.1504, grad_fn=<SelectBackward>) tensor(9.3347, grad_fn=<SelectBackward>)
+tensor([[4]])
+tensor([[53]])
+wash table
+THIS IS FILE:  ic_55.jpg
+DEBUG2: IMAGE SHAPE torch.Size([1, 3, 224, 224]) IMAGES SHAPE torch.Size([8, 3, 224, 224])
+Input shape: torch.Size([8, 3, 224, 224])
+Output shape: [torch.Size([1, 125]), torch.Size([1, 352])]
+tensor(9.1300, grad_fn=<SelectBackward>) tensor(9.3627, grad_fn=<SelectBackward>)
+tensor([[4]])
+tensor([[53]])
+wash table
+THIS IS FILE:  ic_4.jpg
+DEBUG2: IMAGE SHAPE torch.Size([1, 3, 224, 224]) IMAGES SHAPE torch.Size([8, 3, 224, 224])
+Input shape: torch.Size([8, 3, 224, 224])
+Output shape: [torch.Size([1, 125]), torch.Size([1, 352])]
+tensor(9.1183, grad_fn=<SelectBackward>) tensor(9.3191, grad_fn=<SelectBackward>)
+tensor([[4]])
+tensor([[53]])
+wash table
+THIS IS FILE:  ic_32.jpg
+DEBUG2: IMAGE SHAPE torch.Size([1, 3, 224, 224]) IMAGES SHAPE torch.Size([8, 3, 224, 224])
+Input shape: torch.Size([8, 3, 224, 224])
+Output shape: [torch.Size([1, 125]), torch.Size([1, 352])]
+tensor(9.1018, grad_fn=<SelectBackward>) tensor(9.3351, grad_fn=<SelectBackward>)
+tensor([[4]])
+tensor([[53]])
+wash table
+THIS IS FILE:  ic_28.jpg
+DEBUG2: IMAGE SHAPE torch.Size([1, 3, 224, 224]) IMAGES SHAPE torch.Size([8, 3, 224, 224])
+Input shape: torch.Size([8, 3, 224, 224])
+Output shape: [torch.Size([1, 125]), torch.Size([1, 352])]
+tensor(9.1415, grad_fn=<SelectBackward>) tensor(9.3512, grad_fn=<SelectBackward>)
+tensor([[4]])
+tensor([[53]])
+wash table
+THIS IS FILE:  ic_46.jpg
+DEBUG2: IMAGE SHAPE torch.Size([1, 3, 224, 224]) IMAGES SHAPE torch.Size([8, 3, 224, 224])
+Input shape: torch.Size([8, 3, 224, 224])
+Output shape: [torch.Size([1, 125]), torch.Size([1, 352])]
+tensor(9.1404, grad_fn=<SelectBackward>) tensor(9.3806, grad_fn=<SelectBackward>)
+tensor([[4]])
+tensor([[53]])
+wash table
+THIS IS FILE:  ic_14.jpg
+DEBUG2: IMAGE SHAPE torch.Size([1, 3, 224, 224]) IMAGES SHAPE torch.Size([8, 3, 224, 224])
+Input shape: torch.Size([8, 3, 224, 224])
+Output shape: [torch.Size([1, 125]), torch.Size([1, 352])]
+tensor(9.1073, grad_fn=<SelectBackward>) tensor(9.3363, grad_fn=<SelectBackward>)
+tensor([[4]])
+tensor([[53]])
+wash table
+THIS IS FILE:  ic_33.jpg
+DEBUG2: IMAGE SHAPE torch.Size([1, 3, 224, 224]) IMAGES SHAPE torch.Size([8, 3, 224, 224])
+Input shape: torch.Size([8, 3, 224, 224])
+Output shape: [torch.Size([1, 125]), torch.Size([1, 352])]
+tensor(9.1625, grad_fn=<SelectBackward>) tensor(9.3870, grad_fn=<SelectBackward>)
+tensor([[4]])
+tensor([[53]])
+wash table
+THIS IS FILE:  survey_images.mat
